@@ -9,8 +9,3 @@ function changeSize(device) {
         content.className = "content phone";
     }
 }
-
-// Toggle Dark Mode
-function toggleTheme() {
-    document.body.classList.toggle("dark-mode");
-}
